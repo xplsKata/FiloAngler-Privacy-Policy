@@ -1,11 +1,11 @@
 # FiloAngler-Privacy-Policy
-Privacy Policy for FiloAngler
-
+**Privacy Policy for FiloAngler**
+```
 FiloAngler is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application.
 
 Please read this Privacy Policy carefully. By using our mobile application, you consent to the collection, use, and sharing of your information as described in this Privacy Policy.
-
-###Information We Collect
+```
+**Information We Collect**
 ```
 We do not collect any personal information about you unless you voluntarily provide it to us.
 When you use our mobile application, we may collect certain information automatically, including your device's unique device ID, operating system, and other analytics data.
@@ -26,6 +26,6 @@ Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 You are advised to review this Privacy Policy periodically for any changes.
 ```
-###Contact Us
+**Contact Us**
 
 If you have any questions or concerns about our Privacy Policy, please contact us at our facebook page.
